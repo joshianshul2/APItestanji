@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CC721A31-AC6D-4B51-9418-1F10C5848FF9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobPortal/Controllers/CategoryMasterController.cs">
+    <Files>
+      <File FileName="DataModel/WebApiDataModel.edmx" Line="1" Column="1" />
+      <File FileName="JobPortal/Controllers/CategoryMasterController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bmwPortal" expanded="True">
+            <Node name="BusinessEntities" expanded="True" />
+            <Node name="BusinessServices" expanded="True" />
+            <Node name="DataModel" expanded="True" />
+            <Node name="JobPortal" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryMasterController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JobPortal PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anshuljoshi/Downloads/BachatApi/JobPortal/Controllers/CategoryMasterController.cs" relfile="JobPortal/Controllers/CategoryMasterController.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
